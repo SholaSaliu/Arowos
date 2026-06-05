@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Arowos
+- 👋 Hi, I’m @Saliu
 - 👀 I’m interested in programming 
 - 🌱 I’m currently learning c
 - 💞️ I’m looking to collaborate on CS50 
